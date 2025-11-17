@@ -1,0 +1,38 @@
+[
+   {
+        "logo": "https://www.epicon.in/img/ishara-logo.png?bf=0&f=jpg",
+        "link": "",
+        "id": "ishara",
+        "name": "Ishara"
+    }, 
+    {
+        "logo": "https://www.epicon.in/img/epic-tv.png?bf=0&f=jpg",
+        "link": "",
+        "id": "epic",
+        "name": "EPIC"
+    },
+	 {
+        "logo": "https://www.epicon.in/img/new_filamchi_logo.png?bf=0&f=jpg",
+        "link": "https://d282a7rzpbl0nj.cloudfront.net/live/filamchi/master_1080.m3u8",
+        "id": "filmachibhojpuri",
+        "name": "Filmachi Bhojpuri"
+    },
+	 {
+        "logo": "https://www.epicon.in/img/new-show-box-logo.png?bf=0&f=jpg",
+        "link": "https://d282a7rzpbl0nj.cloudfront.net/live/showbox/master_1080.m3u8",
+        "id": "showbox",
+        "name": "Show Box"
+    },
+	   {
+        "logo": "https://www.epicon.in/img/gubbare-logo.png?bf=0&f=jpg",
+        "link": "",
+        "id": "gubbare",
+        "name": "Gubbare"
+    },
+    {
+        "logo": "https://www.epicon.in/img/nazara-logo.png?bf=0&f=jpg",
+        "link": "https://d282a7rzpbl0nj.cloudfront.net/live/nazara/master_1080.m3u8",
+        "id": "nazara",
+        "name": "Nazara"
+    }
+]

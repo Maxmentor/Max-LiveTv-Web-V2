@@ -1,0 +1,26 @@
+[
+   {
+        "logo": "https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal_1x1.jpg?bf=0&f=jpg",
+        "link": "https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8",
+        "id": "dangal",
+        "name": "Dangal"
+    }, 
+    {
+        "logo": "https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal2_1x1.jpg?bf=0&f=jpg",
+        "link": "https://live-dangal2.akamaized.net/liveabr/pub-iodanga2a26kj2/live_720p/chunks.m3u8",
+        "id": "dangal2",
+        "name": "Dangal2"
+    },
+	 {
+        "logo": "https://dangaplay-json.s3.ap-south-1.amazonaws.com/entree10_1x1.jpg?bf=0&f=jpg",
+        "link": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
+        "id": "enter10bangla",
+        "name": "Enter 10 Bangla"
+    },
+	 {
+        "logo": "https://dangaplay-json.s3.ap-south-1.amazonaws.com/BhojpuriCinema_1x1.jpg?bf=0&f=jpg",
+        "link": "https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_720p/chunks.m3u8",
+        "id": "bhojpuricinema",
+        "name": "Bhojpuri Cinema"
+    }
+]

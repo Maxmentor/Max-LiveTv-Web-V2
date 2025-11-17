@@ -1,0 +1,139 @@
+[
+    {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "sonysabhd",
+        "name": "SAB HD"
+    },
+	 {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "sonysethd",
+        "name": "SET HD"
+    },
+	 {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "sonymarathi",
+        "name": "Sony Marathi SD"
+    },
+	 {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011741-b/SonyPalSD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "sonypal",
+        "name": "Sony Pal SD"
+    },
+	 {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011641-b/SonyAathSD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "sonyaath",
+        "name": "Sony Aath SD"
+    }, {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011746-b/SonyYaySD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "sonyyay",
+        "name": "Sony Yay SD"
+    },
+	 {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "setmaxhd",
+        "name": "Sony Max HD"
+    },
+	 {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "setmaxsd",
+        "name":"Sony Max SD"
+    },
+	 {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011906-b/SonyWah/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "sonywah",
+        "name": "Sony Wah SD"
+    },
+	{
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "sonymax2",
+        "name": "Sony Max 2 SD"
+    }, 
+	{
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "sonypixhd",
+        "name": "Sony Pix HD"
+    },
+	{
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "sonysixhd",
+        "name": "Sony Six HD"
+    },
+     {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "tenhd1",
+        "name": "Sony Ten 1 HD"
+    }, 
+     {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "tenhd2",
+        "name": "Sony Ten 2 HD"
+    }, 
+     {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "tenhd3",
+        "name": "Sony Ten 3 Hindi HD"
+    }, 
+    {
+        "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "tenhd4",
+        "name": "Sony Ten 4 HD"
+    }, 
+	  {
+        "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "tenhd5",
+        "name": "Sony Ten 5 HD"
+    },
+     {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "tensd1",
+        "name": "Sony Ten 1 SD"
+    }, 
+    {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "tensd2",
+        "name": "Sony Ten 2 SD"
+    }, 
+    {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "tensd3",
+        "name": "Sony Ten 3 SD"
+    }, 
+    {
+        "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020437-b/ten4sd/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "tensd4",
+        "name": "Sony Ten 4 SD"
+    }, 
+    {
+        "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "tensd5",
+        "name": "Sony Ten 5 SD"
+    }, 
+    {
+        "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
+        "link": "https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1763439324~acl=/*~id=65825815261927300702174930650836~hmac=fed2b3cf368f61b3b87e790cbaeae60e0e0d1edfcb3f212ff01805bbf0ab32ee",
+        "id": "bbcearthhd",
+        "name": "BBC EARTH hD"
+    }
+]
