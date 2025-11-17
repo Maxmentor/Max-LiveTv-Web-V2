@@ -1,1 +1,69 @@
-
+[
+   {
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/pcbudo.png&p=true&q=85&w=300",
+        "link": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b2628000.m3u8",
+        "id": "Aastha",
+        "name": "Aastha"
+    }, 
+    {
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/scbhqx.png&p=true&q=85&w=250",
+        "link": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b1928000.m3u8",
+        "id": "Aastha-Bhajan",
+        "name": "Aastha Bhajan"
+    },
+	 {
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/oognna.png?bf=0&f=jpg&p=true&q=85&w=250",
+        "link": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8",
+        "id": "Dharma-Sandesh",
+        "name": "Dharma Sandesh"
+    },
+	 {
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/iklzje.png?bf=0&f=jpg&p=true&q=85&w=250",
+        "link": "https://aasthaott.akamaized.net/110923/smil:vedic.smil/chunklist_b1928000.m3u8",
+        "id": "Vedic",
+        "name": "Vedic"
+    },
+	   {
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/rtmiin.png?bf=0&f=jpg&p=true&q=85&w=250",
+        "link": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/chunklist_b2628000.m3u8",
+        "id": "Aastha-Prime-1",
+        "name": "Aastha Prime 1"
+    },
+   {
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/ftaxmj.png?bf=0&f=jpg&p=true&q=85&w=250",
+        "link": "https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/chunklist_b1928000.m3u8",
+        "id": "Aastha-Gujrati",
+        "name": "Aastha Gujrati"
+    },
+   {
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/yczteu.png?bf=0&f=jpg&p=true&q=85",
+        "link": "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/chunklist_b1928000.m3u8",
+        "id": "Aastha-Tamil",
+        "name": "Aastha Tamil"
+    },
+   {
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/syqzfn.png?bf=0&f=jpg&p=true&q=85&w=250",
+        "link": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/chunklist_b1928000.m3u8",
+        "id": "Aastha-Telugu",
+        "name": "Aastha Telugu"
+    }, 
+   {
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/qvmkgg.png?bf=0&f=jpg&p=true&q=85&w=250",
+        "link": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/chunklist_b1928000.m3u8",
+        "id": "Aastha-Kannada",
+        "name": "Aastha Kannada"
+    },
+   {
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/emovcq.png?bf=0&f=jpg&p=true&q=85&w=250",
+        "link": "https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/chunklist_b1928000.m3u8",
+        "id": "Aastha-UK",
+        "name": "Aastha UK"
+    },
+  
+    {
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/ltbwvk.png",
+        "link": "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/chunklist_b1928000.m3u8",
+        "id": "Aastha-USA",
+        "name": "Aastha USA"
+    }
+]
