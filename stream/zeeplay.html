@@ -1,0 +1,82 @@
+<html>
+
+<head>
+    <title> stream v2</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+   
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
+    <link rel="stylesheet" href="assets/css/player.css" />
+    <script src="https://cdn.plyr.io/3.6.3/plyr.js"></script>
+    <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/BcjC6R8/jiotv.png">
+    <script type="text/javascript" src="https://content.jwplatform.com/libraries/IDzF9Zmk.js"></script>
+
+</head>
+
+<body>
+    <style>
+        html {
+            background: #000;
+            margin: 0;
+            padding: 0;
+        }
+
+        #myElement {
+            position: relative;
+            width: 100% !important;
+            height: 100% !important;
+        }
+
+        @keyframes blur-text {
+            0% {
+                filter: blur(0px);
+            }
+
+            100% {
+                filter: blur(4px);
+            }
+        }
+    </style>
+
+
+
+
+
+    <video id="myElement"></video>
+    <script type="text/javascript">
+
+    var urlParams = new URLSearchParams(window.location.search);
+      var maxvalue=urlParams.get('max');
+
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const playerConfig = {
+                title: 'Max Stream',
+                description: "maxmentor",
+                image: '',
+                skin: {
+                    name: "netflix"
+                },
+                aspectratio: '16:9',
+                width: '100%',
+                mute: false,
+                autostart: true,
+                file:  maxvalue,
+                type: "hls",
+                captions: {
+                    color: '#fff',
+                    fontSize: 16,
+                    backgroundOpacity: 0
+                }
+            };
+            const player = jwplayer("myElement").setup(playerConfig);
+        });
+
+    
+
+
+    </script>
+</body>
+
+</html>
